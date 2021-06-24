@@ -1,0 +1,141 @@
+.social-icon {
+    padding-top: 10px;
+}
+
+.address {
+    padding-top: 10px;
+}
+
+.top-container a:link {
+    color: white;
+}
+
+.top-container{
+    background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.icon {
+    margin: 5px;
+    color: white;
+}
+
+.mail {
+    margin-right: 25px;
+}
+
+.call {
+    margin-right: 25px;
+}
+
+.login {
+    margin-left: 25px;
+}
+
+hr.new3 {
+    border-top: 2px dotted #fffefd;
+}
+
+.navbar {
+    font-size: small;
+}
+
+.main-heading {
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+}
+
+.main-button {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    ;
+}
+
+.burger {
+    margin-top: 100px;
+    margin-left: 150px;
+}
+
+.burger2 {
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-bottom: 100px;
+}
+
+.hand {
+    color: #12a84e;
+    margin-top: 110px;
+}
+
+.b-icon {
+    margin-right: 2rem;
+    margin-left: 1rem;
+}
+
+.b-desc {
+    line-height: 1.6rem;
+    word-wrap: break-word;
+    margin-top: 10px;
+}
+
+.btn {
+    margin-top: 20px;
+}
+
+.review {
+    margin-left: 150px;
+}
+
+.form-group {
+    margin-top: 1rem;
+}
+
+.user1 {
+    margin-top: 20px;
+}
+
+.u-name {
+    margin-right: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.review2 {
+    margin-top: 15px;
+}
+
+.opening-hours {
+    margin-top: 40px;
+    width: 1459px;
+    height: 120px;
+    background-color: #12a84e;
+    color: white;
+}
+
+#open-hour{
+    text-align: center;
+    margin: 50px 0 0;
+    font-size: large;
+}
+
+#open-hour1{
+    text-align: center;
+    margin: 35px 0 0;
+    font-size: medium;
+}
+
+.mb-4{
+      color: green;
+}
+
+.mb-2{
+      color: white;
+}
+
+.f-icon{
+      color: #12a84e;
+      margin: 0 5px;
+}
